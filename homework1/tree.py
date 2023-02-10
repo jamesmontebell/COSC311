@@ -13,5 +13,5 @@ def tree(outlook, humidity, wind):
             print('yes')
             
 tree('sunny', 'high', 'weak')
-tree('overcast', 'normal', 'strong')
+tree('overcas', 'normal', 'strong')
 tree('rain', 'high', 'strong')
